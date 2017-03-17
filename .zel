@@ -1,0 +1,6 @@
+{
+  "dependencies": [
+    "vutran/editorconfig",
+    "vutran/gitignore"
+  ]
+}
