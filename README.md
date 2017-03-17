@@ -1,6 +1,6 @@
 # new
 
-> Zel boilerplate repository for new projects
+> [Zel](https://github.com/vutran/zel/) boilerplate repository for new projects
 
 ## Install
 
